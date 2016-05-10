@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+var ${1:module};
+(function(${1:module}){
+$SELECTION
+})(${1:module} || (${1:module} = {}));
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tsmodule</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

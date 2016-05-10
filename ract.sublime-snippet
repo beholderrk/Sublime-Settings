@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+export const ${1:ACTION_CONST} = '${1}';
+export function ${1/(^[A-Z]+)|_([A-Z]+)/(?1\L$1)(?2\L\u$2:)/g}(${2:payload}){
+    return {
+        type: ${1},
+        ${2}
+    }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ract</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

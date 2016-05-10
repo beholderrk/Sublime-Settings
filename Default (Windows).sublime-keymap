@@ -1,0 +1,16 @@
+[
+	{ "keys": ["ctrl+w"], "command": "expand_region" },
+    { "keys": ["super+ctrl+i"], "command": "angularjs_find" },
+    { "keys": ["super+ctrl+alt+i"], "command": "angularjs_go_to_definition" },
+    {
+        "keys": [
+            "shift+ctrl+'"
+        ], 
+        "command": "rename_tag", 
+        "context": [
+            {
+                "key": "emmet_action_enabled.rename_tag"
+            }
+        ]
+    }, 
+]

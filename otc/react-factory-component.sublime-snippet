@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+${1:m}.factory('${2:name}Component', ['', function(){
+    return React.createClass({
+        render: function(){
+            return (
+                ${3}
+            );
+        }
+    });
+}]);
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>otc-rcf</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

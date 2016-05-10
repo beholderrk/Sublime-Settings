@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"All Autocomplete",
+		"AngularJS",
+		"Babel",
+		"Babel Snippets",
+		"Better TypeScript",
+		"Dictionaries",
+		"EditorConfig",
+		"Emmet",
+		"ExpandRegion",
+		"FileDiffs",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"Gulp",
+		"Gutter Color",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"LESS",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Mocha Snippets",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PowerShell",
+		"Protocol Buffer Syntax",
+		"Sass",
+		"SqlBeautifier",
+		"StringUtilities",
+		"Sublime-KnockoutJS-Snippets",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-php",
+		"SublimeLinter-pylint",
+		"SyntaxFold",
+		"Text Pastry"
+	]
+}
