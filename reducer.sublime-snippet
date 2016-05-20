@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+const ${2:DEFAULT_STATE} = {
+    isFetching: false,
+    errors: []
+};
+
+export function ${1}(state = ${2}, action) {
+    switch(action.type) {
+        case ${3:ACTION_TYPE}:
+            return {
+                ...state,
+            }
+        default:
+            return state;
+    }
+}
+]]></content>
+    <tabTrigger>reducer</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
