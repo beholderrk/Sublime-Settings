@@ -12,8 +12,8 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"Better TypeScript",
 		"Markdown",
-		"Markdown Extended",
 		"Vintage"
 	],
 	"translate_tabs_to_spaces": true
