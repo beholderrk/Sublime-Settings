@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Better TypeScript"
 	],
 	"installed_packages":
 	[
@@ -21,19 +22,15 @@
 		"FindKeyConflicts",
 		"Git",
 		"GitGutter",
-		"Gulp",
 		"Gutter Color",
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"Jade",
 		"LESS",
-		"Markdown Extended",
-		"MarkdownEditing",
 		"Mocha Snippets",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"PowerShell",
-		"Protocol Buffer Syntax",
 		"Sass",
 		"SqlBeautifier",
 		"StringUtilities",
