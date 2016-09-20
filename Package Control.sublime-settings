@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Better TypeScript"
 	],
 	"installed_packages":
 	[
@@ -13,6 +12,7 @@
 		"Babel",
 		"Babel Snippets",
 		"Better TypeScript",
+		"Case Conversion",
 		"Dictionaries",
 		"DocBlockr",
 		"EditorConfig",
@@ -27,13 +27,13 @@
 		"Indent XML",
 		"Jade",
 		"LESS",
+		"MarkdownEditing",
 		"Mocha Snippets",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"PowerShell",
 		"Sass",
 		"SqlBeautifier",
-		"StringUtilities",
 		"Sublime-KnockoutJS-Snippets",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
