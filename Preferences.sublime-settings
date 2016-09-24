@@ -10,11 +10,5 @@
 		"node_modules"
 	],
 	"font_size": 10,
-	"ignored_packages":
-	[
-		"Better TypeScript",
-		"Markdown",
-		"Vintage"
-	],
 	"translate_tabs_to_spaces": true
 }
