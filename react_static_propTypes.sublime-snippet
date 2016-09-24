@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+static propTypes = {
+    ${1}: ${2}
+}
+]]></content>
+    <tabTrigger>rccpt</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: static PropTypes</description>
+</snippet>

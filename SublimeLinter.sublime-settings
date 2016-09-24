@@ -9,7 +9,10 @@
         "linters": {
             "eslint": {
                 "@disable": false,
-                "args": ["--global", "expect"],
+                "args": [
+                    "--global",
+                    "expect"
+                ],
                 "excludes": [
                     "**\\node_modules\\**"
                 ]

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+PropTypes.oneOfType([
+    PropTypes.arrayOf(React.PropTypes.node),
+    PropTypes.node
+])
+]]></content>
+    <tabTrigger>ptchildren</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: PropTypes children shape</description>
+</snippet>
