@@ -1,5 +1,8 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AlignTab",
@@ -7,6 +10,7 @@
 		"AutoFileName",
 		"Babel",
 		"Babel Snippets",
+		"Case Conversion",
 		"Dictionaries",
 		"DocBlockr",
 		"EditorConfig",
