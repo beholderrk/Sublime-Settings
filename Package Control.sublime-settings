@@ -1,18 +1,12 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
 		"AlignTab",
 		"All Autocomplete",
-		"AngularJS",
 		"AutoFileName",
 		"Babel",
 		"Babel Snippets",
-		"Better TypeScript",
-		"Case Conversion",
 		"Dictionaries",
 		"DocBlockr",
 		"EditorConfig",
