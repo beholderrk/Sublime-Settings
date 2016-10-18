@@ -14,7 +14,7 @@
                     "expect"
                 ],
                 "excludes": [
-                    "**\\node_modules\\**"
+                    "node_modules"
                 ]
             },
             "php": {
@@ -31,6 +31,11 @@
                 "paths": [],
                 "rcfile": "",
                 "show-codes": false
+            },
+            "stylelint": {
+                "@disable": true,
+                "args": ["--config", "${project}/package.json"],
+                "excludes": ["node_modules"]
             }
         },
         "mark_style": "solid underline",
